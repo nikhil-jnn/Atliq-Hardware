@@ -46,9 +46,9 @@
   - An automated dashboard providing quick insight of the required data in order to make data driven decisions.
 
 ##  Project Samples :
-    ![ezgif com-gif-maker](https://user-images.githubusercontent.com/83585688/120289488-f7bfc300-c2de-11eb-9019-c406277e1c69.gif)
+   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/83585688/120289488-f7bfc300-c2de-11eb-9019-c406277e1c69.gif)
     
-      https://user-images.githubusercontent.com/83585688/120289509-00b09480-c2df-11eb-8264-fb801f6dc594.mp4
+   https://user-images.githubusercontent.com/83585688/120289509-00b09480-c2df-11eb-8264-fb801f6dc594.mp4
 
-      <img width="722" alt="Screenshot 2021-05-14 005403" src="https://user-images.githubusercontent.com/83585688/120289621-1de56300-c2df-11eb-819a-4e1e6b632a25.png">
+   <img width="722" alt="Screenshot 2021-05-14 005403" src="https://user-images.githubusercontent.com/83585688/120289621-1de56300-c2df-11eb-819a-4e1e6b632a25.png">
 
