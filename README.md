@@ -11,8 +11,7 @@
 ### Purpose of the Project :
  - To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
 
-### STAKEHOLDERS :
- 
+### Stakeholders :
 - Sales Director
 - Marketing Team
 - Customer Service Team
@@ -49,4 +48,4 @@
 
    <img width="722" alt="Screenshot 2021-05-14 005403" src="https://user-images.githubusercontent.com/83585688/120289621-1de56300-c2df-11eb-819a-4e1e6b632a25.png">
 
-(This was a personal project based on fictitious characters and sample dataset.)
+This was a personal project based on fictitious characters and sample dataset.
