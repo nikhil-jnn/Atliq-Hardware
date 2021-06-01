@@ -1,6 +1,5 @@
-# Atliq-Hardware (This is a personalproject based on fictitious characters and sample dataset)
+# Atliq-Hardware
 
-## Using AIMS GRID 
 ### Problem Statement :
  - Project was based on a computer hardware business (Atliq Hardware) which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights.
 
@@ -50,3 +49,4 @@
 
    <img width="722" alt="Screenshot 2021-05-14 005403" src="https://user-images.githubusercontent.com/83585688/120289621-1de56300-c2df-11eb-819a-4e1e6b632a25.png">
 
+(This was a personal project based on fictitious characters and sample dataset.)
