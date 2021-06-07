@@ -42,9 +42,15 @@
   - Plotting different bar,donut charts and drilling down the data as per the requirements.
   - Designing filtered user response based visualizations as per the requirement of the client.
   - An automated dashboard providing quick insight of the required data in order to make data driven decisions.
+##  Dataset :
 
-##  Project Samples :
+<img width="960" alt="Dataset Image" src="https://user-images.githubusercontent.com/83585688/120996676-2a1c6500-c7a4-11eb-8c23-5846fa0a8cd9.png">
+
+
+##  Project Sample :
    ![ezgif com-gif-maker](https://user-images.githubusercontent.com/83585688/120289488-f7bfc300-c2de-11eb-9019-c406277e1c69.gif)
+
+##  Project Sample Image :
 
    <img width="722" alt="Screenshot 2021-05-14 005403" src="https://user-images.githubusercontent.com/83585688/120289621-1de56300-c2df-11eb-819a-4e1e6b632a25.png">
 
